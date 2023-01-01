@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Abai() {
+function Aaa() {
   return (
     <div>
-      sssssssssss
+      sdfsf
     </div>
   )
 }
 
-export default Abai
+export default Aaa
